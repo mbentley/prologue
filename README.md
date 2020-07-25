@@ -1,5 +1,7 @@
 # Prologue
 
+Fork of [sethmacleod/prologue](https://github.com/sethmacleod/prologue) which no longer exists.
+
 Prologue is a single page responsive site template with a sticky sidebar. It is a port of [HTML5 UP's Prologue theme](https://html5up.net/prologue).
 
 ![Prologue Theme screenshot](https://raw.githubusercontent.com/sethmacleod/prologue/master/images/screenshot.png)
